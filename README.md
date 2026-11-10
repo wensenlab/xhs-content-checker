@@ -8,9 +8,11 @@
 
 ---
 
-## 🌐 在线体验
+## 🌐 在线体验与界面预览
 
 - **GitHub Pages 演示地址**：[https://wensenlab.github.io/xhs-content-checker/](https://wensenlab.github.io/xhs-content-checker/)
+
+![小红书违禁词排雷与文案优化工坊界面预览](preview.png)
 
 ---
 
